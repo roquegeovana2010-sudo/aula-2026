@@ -1,0 +1,18 @@
+body {
+  font-family: "Helvetica", "Times New Roman", sans-serif;
+  color: #6382a5;
+}
+h1 {
+  background-color: #3f4c5a;
+}
+
+h2 {
+  border-bottom: 2px solid #c9ddf1;
+}
+
+figure {
+  text-align: center;
+
+  background-color: whitesmoke;
+  border: 1px solid lightgrey;
+}
